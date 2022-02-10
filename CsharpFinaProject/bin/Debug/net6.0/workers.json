@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Fuad",
+    "Surname": "Yusifiv",
+    "Username": "fuadyusif",
+    "Password": "worker",
+    "City": "Baku",
+    "Phone": "173-2011",
+    "Age": 21,
+    "BeginToWorkTime": "2001-05-22T00:00:00",
+    "EndWorkTime": null,
+    "CV": {
+      "Ixtisas": "programer",
+      "School": "FRITL",
+      "UniScore": 210,
+      "AbilituesLanguage": [
+        "C#",
+        "JAVA",
+        "C++"
+      ],
+      "Companies": [
+        "IPG",
+        "IT STEP"
+      ],
+      "KnowForeignLanguage": [
+        "AZERBAJANI",
+        "ENGLISH"
+      ],
+      "GITLINK": "https://github.com/FuadYusifov",
+      "LINKEDLINK": "https://linkedin.com/FuadYusifov",
+      "HasDiplom": true
+    },
+    "IsWorking": true
+  },
+  {
+    "Name": "matata",
+    "Surname": "ataman",
+    "Username": "Ataman123",
+    "Password": "12345678",
+    "City": "Baku",
+    "Phone": "100-200",
+    "Age": 20,
+    "BeginToWorkTime": null,
+    "EndWorkTime": null,
+    "CV": {
+      "Ixtisas": "Programer",
+      "School": "KBRTL",
+      "UniScore": 1020,
+      "AbilituesLanguage": [
+        "C#",
+        "PYTHON"
+      ],
+      "Companies": [
+        "Bakcell",
+        "Azerfon"
+      ],
+      "KnowForeignLanguage": [
+        "ENGLISH",
+        "RUSSIAN"
+      ],
+      "GITLINK": "https://github.com/Ataman",
+      "LINKEDLINK": "https://linkedin.com/Ataman",
+      "HasDiplom": true
+    },
+    "IsWorking": false
+  }
+]

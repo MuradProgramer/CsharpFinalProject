@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "Murad",
+    "Surname": "Musali",
+    "Username": "muradprogramer",
+    "Password": "employer",
+    "City": "Baku",
+    "Phone": "201-1828",
+    "Age": 15,
+    "Vacancies": [
+      {
+        "LanguagesOfPrograming": [
+          "PYTHON",
+          "C#"
+        ],
+        "StartingAge": 20,
+        "MinUniScore": 200,
+        "NeedToKnowLanguages": [
+          "ENGLISH",
+          "RUSSIAN"
+        ],
+        "HaveToSpecifiedDiplom": true,
+        "Salary": 1200.0,
+        "IsRemoted": false
+      }
+    ],
+    "Notifications": []
+  },
+  {
+    "Name": "Kamil",
+    "Surname": "Hakuna",
+    "Username": "ramo",
+    "Password": "copier",
+    "City": "Sumqayit",
+    "Phone": "422-4244",
+    "Age": 42,
+    "Vacancies": [
+      {
+        "LanguagesOfPrograming": [
+          "Java",
+          "C++"
+        ],
+        "StartingAge": 25,
+        "MinUniScore": 300,
+        "NeedToKnowLanguages": [
+          "English",
+          "Russian"
+        ],
+        "HaveToSpecifiedDiplom": false,
+        "Salary": 550.0,
+        "IsRemoted": false
+      }
+    ],
+    "Notifications": []
+   
+  }
+]

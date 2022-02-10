@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\bin\Debug\net6.0\CsharpFinaProject.exe
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\bin\Debug\net6.0\CsharpFinaProject.deps.json
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\bin\Debug\net6.0\CsharpFinaProject.runtimeconfig.json
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\bin\Debug\net6.0\CsharpFinaProject.dll
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\bin\Debug\net6.0\ref\CsharpFinaProject.dll
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\bin\Debug\net6.0\CsharpFinaProject.pdb
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\obj\Debug\net6.0\CsharpFinaProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\obj\Debug\net6.0\CsharpFinaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\obj\Debug\net6.0\CsharpFinaProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\obj\Debug\net6.0\CsharpFinaProject.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\obj\Debug\net6.0\CsharpFinaProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\obj\Debug\net6.0\CsharpFinaProject.dll
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\obj\Debug\net6.0\ref\CsharpFinaProject.dll
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\obj\Debug\net6.0\CsharpFinaProject.pdb
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\obj\Debug\net6.0\CsharpFinaProject.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\C#\CsharpFinaProject\CsharpFinaProject\obj\Debug\net6.0\CsharpFinaProject.csproj.CopyComplete
